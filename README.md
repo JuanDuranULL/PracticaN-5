@@ -3,7 +3,7 @@
 **Asignatura:** Administración y Diseño de Bases de Datos  
 **Curso:** 2025–2026  
 **Universidad:** Universidad de La Laguna  
-**Autor:** Juan David Durán Garzón  
+**Autor:** Juan David Durán Garzón y Angel Ándres Boada Salazar
 
 ---
 
